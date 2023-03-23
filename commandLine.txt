@@ -1,0 +1,19 @@
+#기본 명령어
+
+git init	
+
+git status 
+
+git add fileName
+
+git commit
+
+git branch
+
+git branch branchName
+
+git commit -a 
+
+git checkout main
+
+git merge branchName
