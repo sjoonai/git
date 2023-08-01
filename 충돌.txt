@@ -4,3 +4,10 @@
 2.
 일부러 충돌이 나도록 함.
 커밋할때 이전 버전으로 함.
+
+3.
+잘못 커밋한걸 알고 다시 커밋하려고 함
+Pushed to git - origin
+main -> main [rejected - non-fast-forward] 오류 메시지가 뜸.
+
+
