@@ -1,2 +1,29 @@
+1.
 충돌이 났을때 처리하는 방법이 정리되지 않아 매번 프로젝트를 새로 생성함
+
+2.
+일부러 충돌이 나도록 함.
+커밋할때 이전 버전으로 함.
+
+3.
+잘못 커밋한걸 알고 다시 커밋하려고 함
+Pushed to git - origin
+main -> main [rejected - non-fast-forward] 오류 메시지가 뜸.
+이클립스 프로젝트 이름 옆에 [깃허브명 main ↑3 ↓1] 표시됨. => 3건의 커밋 오류
+
+4.
+참조 :
+https://velog.io/@soyeon/JAVAEclipse-GitHub-Push-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-rejected-non-fast-forward 
+https://hanyda.tistory.com/36 
+
+
+5.
+어떻게 하다보니 Conflict 오류까지 발생
+참조 : https://confluence.curvc.com/pages/releaseview.action?pageId=6162682 (Eclipse Git Merge Conflict 해결 방법)
+
+
+6.
+어떻게 했는지 모르겠는데...지웠다가 
+reset 했다가 이래 저래 해보다보니 되긴 됨. ㅡㅡ;
+다음에 다시 정리하기로...
 
