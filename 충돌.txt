@@ -9,5 +9,5 @@
 잘못 커밋한걸 알고 다시 커밋하려고 함
 Pushed to git - origin
 main -> main [rejected - non-fast-forward] 오류 메시지가 뜸.
-이클립스 프로젝트 이름 옆에 [깃허브명 main 
+이클립스 프로젝트 이름 옆에 [깃허브명 main ↑3 ↓1] 표시됨. => 3건의 커밋 오류
 
