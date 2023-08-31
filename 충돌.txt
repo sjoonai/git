@@ -14,7 +14,7 @@ main -> main [rejected - non-fast-forward] 오류 메시지가 뜸.
 4.
 참조 :
 https://velog.io/@soyeon/JAVAEclipse-GitHub-Push-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-rejected-non-fast-forward 
-https://hanyda.tistory.com/36 
+https://hanyda.tistory.com/36 => 정확함
 
 
 5.
